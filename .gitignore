@@ -1,0 +1,4 @@
+# ignore file from git
+.env
+log
+vendor
