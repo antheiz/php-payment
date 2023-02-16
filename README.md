@@ -32,4 +32,6 @@ This is example code for implement payment gateway with midtrans in PHP.
     php -S localhost:3000
     ```
 
+## License
+Licensed under [MIT](LICENSE)
 
